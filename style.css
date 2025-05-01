@@ -1,0 +1,44 @@
+body {
+    background-color: #fff0f5; /* light pink */
+    font-family: Comic Sans MS, cursive;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #ff69b4; /* hot pink */
+    font-size: 40px;
+  }
+  
+  #messages {
+    background: white;
+    border: 4px dotted #ff69b4;
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 400px;
+    height: 200px;
+    overflow-y: scroll;
+    border-radius: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    border: 2px solid #87ceeb;
+    border-radius: 10px;
+    font-size: 16px;
+    width: 60%;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #87ceeb;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4682b4;
+  }
+  
