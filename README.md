@@ -1,1 +1,1 @@
-Made a web chat application using express, html, css and websockets 
+Made a web chat application using Express, HTML, css and WebSockets 
